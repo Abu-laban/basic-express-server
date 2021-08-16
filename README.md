@@ -6,9 +6,9 @@
 
 **Author: Tariq Abu-Laban**
 
-- [tests report](https://github.com/Abu-laban/server-deployment-practice/actions).
-- [back-end](https://tariq-server-deploy-prod.herokuapp.com/).
-- [pull request](https://github.com/Abu-laban/server-deployment-practice/pull/1).
+- [tests report](https://github.com/Abu-laban/basic-express-server/actions).
+- [back-end](https://basic-back-end.herokuapp.com/).
+- [pull request](https://github.com/Abu-laban/basic-express-server/pull/1).
 
 **Setup**
 
