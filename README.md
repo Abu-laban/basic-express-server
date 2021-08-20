@@ -32,3 +32,7 @@
 
 - Unit Tests: `npm run test`
 - Lint Tests: `npm run lint`
+
+**UML**
+
+![UML](./Lab_Class02.png)
